@@ -1,1 +1,1 @@
-# template-java-gradle-junit
+# Project Templates
