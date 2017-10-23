@@ -11,6 +11,10 @@ dependencies {
     testCompile 'org.mockito:mockito-all:1.10.19'
 }
 
+clean.doFirst {
+    delete "${rootDir}/out"
+}
+
 test {
     afterSuite { desc, result ->
         if (!desc.parent)
