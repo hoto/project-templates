@@ -1,4 +1,4 @@
-package com.example;
+package com.codurance;
 
 public class Console {
 

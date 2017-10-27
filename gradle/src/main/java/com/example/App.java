@@ -1,6 +1,6 @@
-package com.example;
+package com.codurance;
 
-import com.example.Console;
+import com.codurance.Console;
 
 public class App {
     private final Console console;

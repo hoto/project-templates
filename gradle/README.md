@@ -13,5 +13,5 @@ Test:
 
 Run:
 
-    java -classpath ./build/libs/app.jar com.example.App
+    java -classpath ./build/libs/app.jar com.codurance.App
 
