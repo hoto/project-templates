@@ -1,7 +1,6 @@
-# Mvn project template
+# Mvn Project Template
 
-Contains:
 
-- junit
-- mockito
-- cucumber
+Build and test:
+
+    mvn package
