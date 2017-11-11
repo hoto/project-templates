@@ -7,6 +7,7 @@ repositories {
 
 dependencies {
     compile 'com.google.guava:guava:22.0'
+    compile 'org.apache.commons:commons-lang3:3.7' 
     testCompile 'junit:junit:4.12'
     testCompile 'org.mockito:mockito-all:1.10.19'
     testCompile 'org.hamcrest:hamcrest-all:1.3'
