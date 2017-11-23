@@ -17,9 +17,9 @@ And a withdrawal of 500 on 14-01-2017
 When she prints her bank statement
 Then she would see
 
-AMOUNT | BALANCE
--500 | 2500
-2000 | 3000
-1000 | 1000
+AMOUNT
+1000
+2000
+-500
 ```
 
