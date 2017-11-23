@@ -1,0 +1,25 @@
+# Bank Kata
+
+Requirements:  
+
+```java
+public class Account {
+    public void deposit(int amount) { }
+    public void withdrawal(int amount) { }
+    public void printStatement() { }
+}
+```
+
+```
+Given a client makes a deposit of 1000 on 10-01-2017
+And a deposit of 2000 on 13-01-2017
+And a withdrawal of 500 on 14-01-2017
+When she prints her bank statement
+Then she would see
+
+AMOUNT | BALANCE
+- 500 | 2500
+2000 | 3000
+1000 | 1000
+```
+
