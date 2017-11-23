@@ -18,7 +18,7 @@ When she prints her bank statement
 Then she would see
 
 AMOUNT | BALANCE
-- 500 | 2500
+-500 | 2500
 2000 | 3000
 1000 | 1000
 ```
