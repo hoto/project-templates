@@ -15,9 +15,9 @@ public class Account {
 Acceptance criteria:
 
 ```
-Given a client makes a deposit of 1000 on 10-01-2017
-And a deposit of 2000 on 13-01-2017
-And a withdrawal of 500 on 14-01-2017
+Given a client makes a deposit of 1000 
+And a deposit of 2000 
+And a withdrawal of 500
 When she prints her bank statement
 Then she would see
 
