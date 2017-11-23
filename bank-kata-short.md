@@ -2,6 +2,8 @@
 
 Requirements:  
 
+Public API:
+
 ```java
 public class Account {
     public void deposit(int amount) { }
@@ -9,6 +11,8 @@ public class Account {
     public void printStatement() { }
 }
 ```
+
+Acceptance criteria:
 
 ```
 Given a client makes a deposit of 1000 on 10-01-2017
