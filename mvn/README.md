@@ -1,6 +1,3 @@
-# Mvn Project Template
+### Build and run
 
-
-Build and test:
-
-    mvn package
+    mvn clean package
