@@ -1,0 +1,8 @@
+---
+user: '{{ ansible_user_id }}'  # user name which executes ansible
+group: '{{ user }}'            # primary group of the user which executes ansible 
+tmp: /tmp
+
+my_variables:
+  key: 'value'
+

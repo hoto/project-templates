@@ -1,0 +1,7 @@
+---
+- name: put playbook description here
+  gather_facts: yes
+  hosts: local
+
+  roles:
+    - ping
