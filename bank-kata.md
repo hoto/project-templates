@@ -1,8 +1,8 @@
 # Bank Kata
 
-Think of your personal bank account experience when in doubt, go for the simplest solution.  
+Think of your personal bank account experience when in doubt, go for the simplest solution.
 
-Requirements:  
+Requirements:
 
 * Deposit and Withdrawal
 * Statement printing in reverse chronological order
