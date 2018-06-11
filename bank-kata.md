@@ -1,6 +1,6 @@
 # Bank Kata
 
-Think of your personal bank account experience When in doubt, go for the simplest solution.  
+Think of your personal bank account experience when in doubt, go for the simplest solution.  
 
 Requirements:  
 
